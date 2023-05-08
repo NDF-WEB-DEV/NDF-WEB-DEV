@@ -3,7 +3,10 @@
 My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solving business problems. Find out more about me and feel free to connect 📫 via LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
-![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-blue?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/nolydefrias)
+
+![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nolydefrias)](https://dev.to/nolydefrias)
+
+![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-blue?style=for-the-badge&logo=dev.to&logoColor=white&link=)
 ![Medium](https://img.shields.io/badge/-nordleendefrias-blue?Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nolydefrias)
 
 
