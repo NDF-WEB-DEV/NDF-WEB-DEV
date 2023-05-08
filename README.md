@@ -50,6 +50,9 @@ My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solvi
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Zendesk](https://a11ybadges.com/badge?logo=zendesk)
+![Salesforce](https://a11ybadges.com/badge?logo=salesforce)
+![Shopify](https://a11ybadges.com/badge?logo=shopify)
 
 ## ⚡ Design Technologies
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
