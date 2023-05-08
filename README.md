@@ -4,7 +4,8 @@ My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solvi
 
 [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
 ![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-blue?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/nolydefrias)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nolydefrias)
+![Medium](https://img.shields.io/badge/-nordleendefrias-blue?Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@nolydefrias)
+
 
 [DOWNLOAD RESUME](https://flowcv.com/resume/iwq4ua7d1t)
 
