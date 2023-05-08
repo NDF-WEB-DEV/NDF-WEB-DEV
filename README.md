@@ -4,7 +4,7 @@ My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solvi
 
 [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
 
-[!Download Resume](https://flowcv.com/resume/iwq4ua7d1t)
+[!Flow Badge](https://flowcv.com/resume/iwq4ua7d1t)
 
 ## ⚡ Technologies
 
