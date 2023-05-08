@@ -1,14 +1,13 @@
 ### Hello World 👋
 
-My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solving business problems. Find out more about me and feel free to connect 📫 via LinkedIn:
+My name is Nordleen De Frias and I am a MERN Full-Stack developer and love solving business problems. 
+Find out more about me and feel free to connect 📫 via LinkedIn or you can [DOWNLOAD MY RESUME HERE](https://flowcv.com/resume/iwq4ua7d1t)
 
 [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
 
 [![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nolydefrias)](https://dev.to/nolydefrias)
 
 [![Medium](https://img.shields.io/badge/-nordleendefrias-black?style=flat-square&logo=Medium&logoColor=white&link=https://dev.to/nolydefrias)](https://medium.com/@nolydefrias)
-
-[DOWNLOAD RESUME](https://flowcv.com/resume/iwq4ua7d1t)
 
 ## ⚡ Technologies
 
