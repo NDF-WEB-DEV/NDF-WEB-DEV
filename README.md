@@ -10,6 +10,8 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 [![Medium](https://img.shields.io/badge/-nordleendefrias-black?style=flat-square&logo=Medium&logoColor=white&link=https://dev.to/nolydefrias)](https://medium.com/@nolydefrias)
 
 ## ⚡ Technologies
+
+[![AnyLogic](https://img.shields.io/badge/AnyLogic_Simulation_Software-0981D1)]
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
