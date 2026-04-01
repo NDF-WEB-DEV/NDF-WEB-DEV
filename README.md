@@ -13,6 +13,7 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 [![MatLab](https://img.shields.io/badge/MatLab-0981D1)](#)
 [![AnyLogic](https://img.shields.io/badge/AnyLogic_Simulation_Software-0981D1)](#)
 [![SysML](https://img.shields.io/badge/SysML_Software-895129)](#)
+[![ModelCenter](https://img.shields.io/badge/ModelCenter-895129)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
