@@ -85,8 +85,4 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NDF-WEB-DEV&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDF-WEB-DEV&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NDF-WEB-DEV.NDF-WEB-DEV)
