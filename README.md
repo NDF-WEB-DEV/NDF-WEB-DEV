@@ -17,6 +17,7 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -56,6 +57,21 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 ![Salesforce](https://a11ybadges.com/badge?logo=salesforce)
 ![Shopify](https://a11ybadges.com/badge?logo=shopify)
 ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare)
+[![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
+[![Square](https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff)](#)
+[![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff)](#)
+[![Bitly](https://img.shields.io/badge/Bitly-EE6123?logo=bitly&logoColor=fff)](#)
+![TinyURL](https://custom-icon-badges.demolab.com/badge/TinyURL-0D7693?logo=tinyurl&logoColor=fff)](#)
+
 
 ## ⚡ Design Technologies
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
@@ -65,6 +81,7 @@ Find out more about me and feel free to connect 📫 via LinkedIn or you can [DO
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NDF-WEB-DEV&count_private=true&show_icons=true&include_all_commits=true)
