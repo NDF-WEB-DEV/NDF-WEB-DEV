@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-My name is Nordleen and I am a Solutions Architect and Digital Transformation Evangelist who loves solving business problems and integratiing systems. 
+My name is Nordleen and I am a Solutions Architect and Digital Transformation Evangelist who loves solving business problems and integrating systems. 
 Find out more about me and feel free to connect 📫 via LinkedIn or you can [DOWNLOAD MY RESUME HERE.](https://flowcv.com/resume/iwq4ua7d1t)
 
 [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
