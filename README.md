@@ -3,12 +3,6 @@
 Solutions Architect and Digital Transformation Evangelist who loves solving business problems and integrating systems. 
 Find out more about me and feel free to connect 📫 via LinkedIn or you can [DOWNLOAD MY RESUME HERE.](https://flowcv.com/resume/iwq4ua7d1t)
 
-/** [![Linkedin Badge](https://img.shields.io/badge/-nordleendefrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nordleendefrias/)](https://www.linkedin.com/in/nordleendefrias/)
-
-[![Dev.to blog](https://img.shields.io/badge/-nordleendefrias-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/nolydefrias)](https://dev.to/nolydefrias)
-
-[![Medium](https://img.shields.io/badge/-nordleendefrias-black?style=flat-square&logo=Medium&logoColor=white&link=https://dev.to/nolydefrias)](https://medium.com/@nolydefrias)
-
 ## ⚡ Technologies
 [![MatLab](https://img.shields.io/badge/MatLab-0981D1)](#)
 [![AnyLogic](https://img.shields.io/badge/AnyLogic_Simulation_Software-0981D1)](#)
